@@ -4,8 +4,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shunjid/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/islammaruf7424/)
 
-:wave: Hi there, My name is Maruf. I'm 21 years old, self-taught, software engineering undergrad from 🇧🇩. I love to work with new technologies and playing with data-structures & algorithms.
-
+:wave: Hi there, My name is Maruf. I'm 25 years old, self-taught, software engineer. Currently, I am working at Colgis BD LTD. I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Daffodil International University
 ## {...} My Stack
 
 ```json
