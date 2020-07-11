@@ -5,8 +5,8 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/islammaruf7424/)
 [![Website](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=45B39D&logo=drone&logoColor=ffffff)](https://www.facebook.com/islammaruf7424/)
 
-:wave: Hi there, My name is Maruf. I'm 25 years old, self-taught, software engineer. Currently, I am working at Colgis BD LTD. I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Daffodil International University.I would like to play with design pattern
-## :muscle: My Stack
+:wave: Hi there, My name is Maruf. I'm 25 years old, self-taught, software engineer. Currently, I am working at Colgis BD LTD. I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Daffodil International University.I would like to play with design pattern.
+## My Stack
 
 ```json
 {
@@ -17,7 +17,7 @@
    "experimenting": ["docker","github action","CI CD","core laravel"]
 }
 ```
-## :tada: Work Experience
+## Work Experience
 ```
 Colgis BD LTD 
 Software Programmer 
