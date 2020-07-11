@@ -5,31 +5,25 @@
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/islammaruf7424/)
 [![Website](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=45B39D&logo=drone&logoColor=ffffff)](https://www.facebook.com/islammaruf7424/)
 
-:wave: Hi there, My name is Maruf. I'm 25 years old, self-taught, software engineer. Currently, I am working at Colgis BD LTD. I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Daffodil International University
+:wave: Hi there, My name is Maruf. I'm 25 years old, self-taught, software engineer. Currently, I am working at Colgis BD LTD. I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Daffodil International University.I would like to play with design pattern
 ## {...} My Stack
 
 ```json
 {
    "languages": ["JavaScript", "PHP"],
-   "backend": ["laravel, express js"],
+   "backend": ["laravel, express js","socket"],
    "frontend": ["jQuery","react","vue"],
    "databases": ["mysql","pgsql"],
-   "experimenting": ["docker","github action"]
+   "experimenting": ["docker","github action","CI CD","core laravel"]
 }
 ```
-## :tada: Achievements
+## :tada: Work Experience
+#Colgis BD LTD
+Software Programmer
+JAN2020 - PRESENT
 
-<ul>
-  <li>
-     <b>World Runner-Up: </b> International Flutter Hackathon, 2020
-   </li> 
-   <li>
-     <b>4th: </b> "Microsoft AI Gaming: Code-A-Bot" organized by MSP, Mumbai
-   </li>
-   <li>
-     <b>Student of the Summer'19: </b> Department of SWE, DIU
-   </li>
-   <li>
-     <b>Champion (Java Category): </b> Intra Department Software Project Fair, 2018
-   </li>
-</ul>
+#Skylark Soft Limited
+Software Engineer
+FEB2019 - DEC2019
+[![PATRONCRM](https://img.shields.io/badge/%20-Patron%20CRM-black?color=14171A&labelColor=5f4b8b&logo=drone&logoColor=ffffff)](https://codecanyon.net/item/patron-crm-laravel-customer-relationship-management/25171673)
+[![OFFCUTTER](https://img.shields.io/badge/%20-OffCutter-black?color=14171A&labelColor=407DFF&logo=drone&logoColor=ffffff)](http://offcutter.com/)
