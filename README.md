@@ -18,12 +18,16 @@
 }
 ```
 ## :tada: Work Experience
-#Colgis BD LTD <br/>
+```
+Colgis BD LTD <br/>
 Software Programmer <br/>
 JAN2020 - PRESENT 
 <br/><br/>
+```
+```
 #Skylark Soft Limited <br/>
 Software Engineer <br/>
 FEB2019 - DEC2019 <br/>
+```
 [![PATRONCRM](https://img.shields.io/badge/%20-Patron%20CRM-black?color=14171A&labelColor=5f4b8b&logo=drone&logoColor=ffffff)](https://codecanyon.net/item/patron-crm-laravel-customer-relationship-management/25171673)
 [![OFFCUTTER](https://img.shields.io/badge/%20-OffCutter-black?color=14171A&labelColor=407DFF&logo=drone&logoColor=ffffff)](http://offcutter.com/)
