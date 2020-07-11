@@ -11,10 +11,10 @@
 ```json
 {
    "languages": ["JavaScript", "PHP"],
-   "backend": ["laravel, express js","socket"],
+   "backend": ["laravel, "express_js","socket"],
    "frontend": ["jQuery","react","vue"],
    "databases": ["mysql","pgsql"],
-   "experimenting": ["docker","github action","CI CD","core laravel"]
+   "experimenting": ["docker","github_action","core_laravel"]
 }
 ```
 ## Work Experience
