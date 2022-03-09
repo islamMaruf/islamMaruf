@@ -40,4 +40,3 @@ FEB2019 - DEC2019
 <!-- [![PATRONCRM](https://img.shields.io/badge/%20-Patron%20CRM-black?color=14171A&labelColor=5f4b8b&logo=drone&logoColor=ffffff)](https://codecanyon.net/item/patron-crm-laravel-customer-relationship-management/25171673)
 [![OFFCUTTER](https://img.shields.io/badge/%20-OffCutter-black?color=14171A&labelColor=407DFF&logo=drone&logoColor=ffffff)](http://offcutter.com/)
  -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=islamMaruf)](https://github.com/anuraghazra/github-readme-stats
