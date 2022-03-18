@@ -7,36 +7,43 @@
 [![Website Visit](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=45B39D&logo=drone&logoColor=ffffff)](https://islammaruf.github.io/)
 
 :wave: Hi there, My name is Maruf. I'm 25 years old, self-taught, software engineer. Currently, I am working at TMSS ICT LTD. I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Daffodil International University.Currently,I am doing Master of Science in Software Engineering from Daffodil International University.
-## My Stack
-```
-{
-   "languages": ["JavaScript", "PHP"],
-   "backend": ["laravel],
-   "frontend": ["jQuery","vue"],
-   "databases": ["mysql", "pgsql"],
-   "experimenting": ["docker", "github_action", "core_laravel","linux"]
-}
-```
-## Work Experience
-```
-TMSS ICT LTD 
-Software Engineer 
-OCT2020 - Present
+### WORK HISTORY
+
+##### **TMSS ICT Limited, Software Engineer**, 10/2021 - Present | West Kazipara, Mirpur-10, Dhaka-1216.
+###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL
+* Develop a payroll mangement system that reduce approximately 40% human workload and decrease the possibility of human error. 
+* Features of the that system are - rbac, authorization, staff registration, dynamic salary component generation, salary sheet generation, calculation of provident fund, gratuity and interest calculation, generate various type of reports related to staff individual earning deduction monthly and yearly calculation,All staff calculation and calculation after staff retire. 
+
+##### **Colgis BD Ltd, Software Programmer**, 01/2020 - 09/2021 | Kamal Soroni road, Dhaka
+###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, JQUERY, POSTGRESQL
+* Developed Employee, Product, Product Description, Customer - portion of the master module of the warehouse management system.
+* Developed Order Entry, Order history - portion of the order module for the system.
+* Developed Deposit input, Delivery input - portion of the sales module for the system.
+* Collaborate with QC and Frontend Developers to develop the system.
+* Develop a system that integrate a Shopify store with Laravel application.
 
 
-```
-```
-Colgis BD LTD 
-Software Programmer 
-JAN2020 - SEP2021 
+##### **Skylark Software Limited, Software Engineer**, 02/2019 - 12/2019 | Mirpur DOHS, Dhaka
+###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, JQUERY, MYSQL
+* Developed vehicle management module, order & purchase order module, purchase requisition & purchase receive - the portion of inventory system module and generate a report like order confirmation list, order recap summary report depends on dates for ERP System.
+* Developed a Chat system between the different users using pusher for ERP System.
+* Developed leads, contacts, opportunities, accounts - portion in CRM System.URL: http://139.162.49.51:33/
+* Developed payment gateway with FastSpring API and sign in, sign up with google account for Offcutter.com a SaaS based service. URL:http://offcutter.com/.
 
-```
-```
-Skylark Soft Limited 
-Software Engineer 
-FEB2019 - DEC2019
+### Skills
+* Knowledge of Object-oriented PHP programming. 
+* Understanding of MVC design patterns.
+* Knowledge of core Laravel features like - Request life cycle, Service container, Service provider, Dependency injection, Facade.
+* Knowledge on JavaScript core concepts like scope, IIFE, Hoisting, Closures, Callbacks, Prototype and Prototypal Inheritance and ES6.
+* Working knowledge of Vue js, Vuex and Vue Router.
+* Try to follow SOLID design pattern and keep code clean as much as possible.
+* Working knowledge with SQL databases and their declarative query languages.
+* Strong understanding of code versioning tools, such as GIT.
+* Strong understanding of features and utility functions of jQuery.
+* Basic understanding of HTML5 and CSS3.
+* Ability to understand business requirements and translate them into technical requirements.
 
-```
-<!-- [![PATRONCRM](https://img.shields.io/badge/%20-Patron%20CRM-black?color=14171A&labelColor=5f4b8b&logo=drone&logoColor=ffffff)](https://codecanyon.net/item/patron-crm-laravel-customer-relationship-management/25171673)
-[![OFFCUTTER](https://img.shields.io/badge/%20-OffCutter-black?color=14171A&labelColor=407DFF&logo=drone&logoColor=ffffff)](http://offcutter.com/)
- -->
+### EDUCATION
+* MSc in Software Engineering. Daffodil International University, Dhaka, 2022 - Present. 
+* BSc in Computer Science & Engineering. Daffodil International University, Dhaka, 2014-2019 
+
