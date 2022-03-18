@@ -43,6 +43,14 @@
 * Basic understanding of HTML5 and CSS3.
 * Ability to understand business requirements and translate them into technical requirements.
 <!--START_SECTION:waka-->
+
+```text
+PHP              20 hrs 48 mins  ████████████████████░░░░░   80.51 %
+Vue.js           2 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Blade Template   53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Other            42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+```
+
 <!--END_SECTION:waka-->
 ### EDUCATION
 * MSc in Software Engineering. Daffodil International University, Dhaka, 2022 - Present. 
