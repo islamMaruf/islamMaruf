@@ -9,7 +9,7 @@
 :wave: Hi there, My name is Maruf. I'm 25 years old, self-taught, software engineer. Currently, I am working at TMSS ICT LTD. I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Daffodil International University.Currently,I am doing Master of Science in Software Engineering from Daffodil International University.
 ### WORK HISTORY
 
-##### **TMSS ICT Limited, Software Engineer**, 10/2021 - Present | West Kazipara, Mirpur-10, Dhaka-1216.
+##### **TMSS ICT Limited, Software Engineer**, 10/2021 - Present | West Kazipara, Mirpur-10, Dhaka
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL
 * Develop a payroll mangement system that reduce approximately 40% human workload and decrease the possibility of human error. 
 * Features of the that system are - rbac, authorization, staff registration, dynamic salary component generation, salary sheet generation, calculation of provident fund, gratuity and interest calculation, generate various type of reports related to staff individual earning deduction monthly and yearly calculation,All staff calculation and calculation after staff retire. 
