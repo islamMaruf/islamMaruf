@@ -7,7 +7,26 @@
 [![Website Visit](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=45B39D&logo=drone&logoColor=ffffff)](https://islammaruf.github.io/)
 
 :wave: Hi there, My name is Maruf. I'm 25 years old, self-taught, software engineer. Currently, I am working at TMSS ICT LTD. I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Daffodil International University.Currently,I am doing Master of Science in Software Engineering from Daffodil International University.
-### WORK HISTORY
+### 🛠 &nbsp;Tech Stack
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)\
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)\
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)\
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### :office: &nbsp;WORK HISTORY
 
 ##### **TMSS ICT Limited, Software Engineer**, 10/2021 - Present | West Kazipara, Mirpur-10, Dhaka
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL
@@ -30,7 +49,7 @@
 * Developed leads, contacts, opportunities, accounts - portion in CRM System.URL: http://139.162.49.51:33/
 * Developed payment gateway with FastSpring API and sign in, sign up with google account for Offcutter.com a SaaS based service. URL:http://offcutter.com/.
 
-### Skills
+### 💡 &nbsp; Skills
 * Knowledge of Object-oriented PHP programming. 
 * Understanding of MVC design patterns.
 * Knowledge of core Laravel features like - Request life cycle, Service container, Service provider, Dependency injection, Facade.
@@ -43,11 +62,11 @@
 * Basic understanding of HTML5 and CSS3.
 * Ability to understand business requirements and translate them into technical requirements.
 
-### EDUCATION
+### 🎓 &nbsp; Education
 * MSc in Software Engineering. Daffodil International University, Dhaka, 2022 - Present 
 * BSc in Computer Science & Engineering. Daffodil International University, Dhaka, 2014-2019
 
-### MY Weekly Coding Time
+###  ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
 
 ```text
