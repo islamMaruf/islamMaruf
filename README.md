@@ -18,9 +18,9 @@
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, JQUERY, POSTGRESQL
 * Developed Employee, Product, Product Description, Customer - portion of the master module of the warehouse management system.
 * Developed Order Entry, Order history - portion of the order module for the system.
-* Developed Deposit input, Delivery input - portion of the sales module for the system.
-* Collaborate with QC and Frontend Developers to develop the system.
-* Develop a system that integrate a Shopify store with Laravel application.
+* Developed Deposit input, Delivery input - portion of the sale module for the system.
+* Collaborate with QC and Front-end Developer to develop the system.
+* Develop a system that integrates a Shopify store with Laravel application.
 
 
 ##### **Skylark Software Limited, Software Engineer**, 02/2019 - 12/2019 | Mirpur DOHS, Dhaka
