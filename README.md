@@ -43,6 +43,10 @@
 * Basic understanding of HTML5 and CSS3.
 * Ability to understand business requirements and translate them into technical requirements.
 
+### EDUCATION
+* MSc in Software Engineering. Daffodil International University, Dhaka, 2022 - Present 
+* BSc in Computer Science & Engineering. Daffodil International University, Dhaka, 2014-2019
+
 ### MY Weekly Coding Time
 <!--START_SECTION:waka-->
 
@@ -54,8 +58,4 @@ Other            42 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-### EDUCATION
-* MSc in Software Engineering. Daffodil International University, Dhaka, 2022 - Present. 
-* BSc in Computer Science & Engineering. Daffodil International University, Dhaka, 2014-2019 
 
