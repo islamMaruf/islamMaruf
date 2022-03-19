@@ -11,8 +11,8 @@
 
 ##### **TMSS ICT Limited, Software Engineer**, 10/2021 - Present | West Kazipara, Mirpur-10, Dhaka
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL
-* Develop a payroll mangement system that reduce approximately 40% human workload and decrease the possibility of human error. 
-* Features of the that system are - rbac, authorization, staff registration, dynamic salary component generation, salary sheet generation, calculation of provident fund, gratuity and interest calculation, generate various type of reports related to staff individual earning deduction monthly and yearly calculation,All staff calculation and calculation after staff retire. 
+* Develop a payroll management system that reduced approximately 40% human workload and decreased the possibility of human error. 
+* Features of that system are - RBAC, authorization, staff registration, dynamic salary component generation, salary sheet generation, calculation of provident fund, gratuity, and interest calculation, generate various types of reports related to staff individual earning deduction monthly and yearly calculation, All staff calculation and calculation after staff retirement. 
 
 ##### **Colgis BD Ltd, Software Programmer**, 01/2020 - 09/2021 | Kamal Soroni road, Dhaka
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, JQUERY, POSTGRESQL
