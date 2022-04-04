@@ -30,7 +30,7 @@
 
 ##### **TMSS ICT Limited, Software Engineer**, 10/2021 - Present | West Kazipara, Mirpur-10, Dhaka
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL
-* Develop a payroll management system that reduced approximately 40% human workload and decreased the possibility of human error. 
+* Develop a payroll management system that reduced approximately 40% of human workload and decreased the possibility of human error. 
 * Features of that system are - RBAC, authorization, staff registration, dynamic salary component generation, salary sheet generation, calculation of provident fund, gratuity, and interest calculation, generate various types of reports related to staff individual earning deduction monthly and yearly calculation, All staff calculation and calculation after staff retirement.
 * Implement a scheduler for deleting some deleted data after a certain period.
 * Implement a job for inserting large dataset and notify the front end through a pusher event. 
