@@ -6,7 +6,7 @@
 [![Youtube Channel](https://img.shields.io/badge/%20-Channel-black?color=14171A&labelColor=c53929&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCLMGSasSxHmrEmu5LcL9AMA)
 [![Website Visit](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=45B39D&logo=drone&logoColor=ffffff)](https://islammaruf.github.io/)
 
-:wave: Hi there, My name is Maruf. I'm 25 years old, self-taught, software engineer. Currently, I am working at TMSS ICT LTD. I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Daffodil International University.Currently,I am doing Master of Science in Software Engineering from Daffodil International University.
+:wave: Hi there, My name is Maruf. I'm 25 years old, self-taught, software engineer. Currently, I am working at Soft BD Ltd. I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Daffodil International University.Currently,I am doing Master of Science in Software Engineering from Daffodil International University.
 ### 🛠 &nbsp;Tech Stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -34,7 +34,11 @@
 
 ### :office: &nbsp;WORK HISTORY
 
-##### **TMSS ICT Limited, Software Engineer**, 10/2021 - Present | West Kazipara, Mirpur-10, Dhaka
+##### **Soft BD Ltd, Software Engineer**, 10/2021 - 05/2022 | 8th & 13th Floor, 52/1 Hasan Holdings Limited, New Eskaton Road, Dhaka - 1000
+###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, React Js, Next Js, TypeScript, Node Js, Nest Js, Material UI, API Gateway, MYSQL
+
+
+##### **TMSS ICT Limited, Software Engineer**, 06/2022 - Present | West Kazipara, Mirpur-10, Dhaka
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL
 * Develop a payroll management system that reduced approximately 40% of human workload and decreased the possibility of human error. 
 * Features of that system are - RBAC, authorization, staff registration, dynamic salary component generation, salary sheet generation, calculation of provident fund, gratuity, and interest calculation, generate various types of reports related to staff individual earning deduction monthly and yearly calculation, All staff calculation and calculation after staff retirement.
