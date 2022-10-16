@@ -55,7 +55,7 @@
 * Develop a system that integrates a Shopify store with Laravel application.
 
 
-##### **Skylark Software Limited, Software Engineer**, 02/2019 - 12/2019 | Mirpur DOHS, Dhaka
+##### **Skylark Soft Limited [SLS], Software Engineer**, 02/2019 - 12/2019 | Mirpur DOHS, Dhaka
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, JQUERY, MYSQL
 * Developed vehicle management module, order & purchase order module, purchase requisition & purchase receive - the portion of inventory system module and generate a report like order confirmation list, order recap summary report depends on dates for ERP System.
 * Developed a Chat system between the different users using pusher for ERP System.
