@@ -34,11 +34,11 @@
 
 ### :office: &nbsp;WORK HISTORY
 
-##### **Soft BD Ltd, Software Engineer**, 10/2021 - 05/2022 | 8th & 13th Floor, 52/1 Hasan Holdings Limited, New Eskaton Road, Dhaka - 1000
+##### **Soft BD Ltd, Software Engineer**, 06/2022 - Present | 8th & 13th Floor, 52/1 Hasan Holdings Limited, New Eskaton Road, Dhaka - 1000
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, React Js, Next Js, TypeScript, Node Js, Nest Js, Material UI, API Gateway, MYSQL
 
 
-##### **TMSS ICT Limited, Software Engineer**, 06/2022 - Present | West Kazipara, Mirpur-10, Dhaka
+##### **TMSS ICT Limited, Software Engineer**, 10/2021 - 05/2022 | West Kazipara, Mirpur-10, Dhaka
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL
 * Develop a payroll management system that reduced approximately 40% of human workload and decreased the possibility of human error. 
 * Features of that system are - RBAC, authorization, staff registration, dynamic salary component generation, salary sheet generation, calculation of provident fund, gratuity, and interest calculation, generate various types of reports related to staff individual earning deduction monthly and yearly calculation, All staff calculation and calculation after staff retirement.
