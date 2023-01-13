@@ -85,80 +85,32 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 ###  ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C780%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 77 Contributions in the Year 2022
+> 🏆 2 Contributions in the Year 2023
  > 
-> 📦 245.5 kB Used in GitHub's Storage 
+> 📦 272.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 83 Public Repositories 
+> 📜 86 Public Repositories 
  > 
-> 🔑 13 Private Repositories  
+> 🔑 14 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-🌆 Daytime    43 commits     ████████████████░░░░░░░░░   65.15% 
-🌃 Evening    19 commits     ███████░░░░░░░░░░░░░░░░░░   28.79% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-Tuesday      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52% 
-Wednesday    9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Thursday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-Friday       15 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-Saturday     32 commits     ████████████░░░░░░░░░░░░░   48.48% 
-Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-TypeScript               30 hrs 55 mins      ████████████████████░░░░░   81.38% 
-Bash                     2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
-JSON                     1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   2.71% 
-.env file                53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36% 
-JavaScript               51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28%
-
-🔥 Editors: 
-WebStorm                 37 hrs 9 mins       ████████████████████████░   97.79% 
-VS Code                  50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
-
-🐱‍💻 Projects: 
-future-nation-frontend-we21 hrs 48 mins      ██████████████░░░░░░░░░░░   57.4% 
-future-nation-api-server 15 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   40.39% 
-lav_sms                  50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
-
-💻 Operating System: 
-Linux                    37 hrs 9 mins       ████████████████████████░   97.79% 
-Windows                  50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ███████████░░░░░░░░░░░░░░   44.19% 
-PHP                      17 repos            ██████████░░░░░░░░░░░░░░░   39.53% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
-Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
+JavaScript               19 repos            ██████████░░░░░░░░░░░░░░░   42.22% 
+PHP                      17 repos            █████████░░░░░░░░░░░░░░░░   37.78% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
 
 ```
 
@@ -168,7 +120,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/09/2022 16:45:11 UTC
+ Last Updated on 13/01/2023 12:24:48 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
