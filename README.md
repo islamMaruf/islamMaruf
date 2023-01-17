@@ -85,21 +85,21 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 ###  ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C042%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C049%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 4 Contributions in the Year 2023
+> 🏆 6 Contributions in the Year 2023
  > 
 > 📦 272.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 88 Public Repositories 
+> 📜 90 Public Repositories 
  > 
 > 🔑 14 Private Repositories  
  > 
@@ -132,26 +132,26 @@ Sunday       7 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               9 hrs 46 mins       ████████████░░░░░░░░░░░░░   49.33% 
-JavaScript               2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-JSON                     2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
-PHP                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-YAML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.44%
+TypeScript               15 hrs 33 mins      ██████████████░░░░░░░░░░░   57.85% 
+JavaScript               2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
+JSON                     2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.8% 
+HTML                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
+PHP                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
 
 🔥 Editors: 
-WebStorm                 15 hrs 44 mins      ████████████████████░░░░░   79.54% 
-VS Code                  4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.46%
+WebStorm                 21 hrs 30 mins      ████████████████████░░░░░   79.93% 
+VS Code                  5 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07%
 
 🐱‍💻 Projects: 
-future-nation-frontend-we6 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.96% 
-nextjs-app               2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
-backendPHP               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
-next-keycloak            1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.3% 
-world-view-event-api-serv56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.79%
+future-nation-frontend-we12 hrs 11 mins      ███████████░░░░░░░░░░░░░░   45.3% 
+nextjs-app               2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+backendPHP               1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
+next-keycloak            1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.37% 
+React-17-TypeScript-with-1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.01%
 
 💻 Operating System: 
-Linux                    13 hrs 58 mins      █████████████████░░░░░░░░   70.55% 
-Windows                  5 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.45%
+Linux                    20 hrs 46 mins      ███████████████████░░░░░░   77.25% 
+Windows                  6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   22.75%
 
 ```
 
@@ -172,7 +172,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/01/2023 12:26:04 UTC
+ Last Updated on 17/01/2023 12:26:04 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
