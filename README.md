@@ -87,7 +87,7 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C099%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -132,24 +132,21 @@ Sunday           7 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               2 hrs 34 mins       ███████████████░░░░░░░░░░   60.06 % 
-TypeScript               54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-JSON                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               51 mins             ████████████████████░░░░░   82.40 % 
+Text                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 12 mins       ██████████████████░░░░░░░   74.76 % 
-WebStorm                 1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+WebStorm                 1 hr 2 mins         █████████████████████████   99.68 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-raw-nodejs-project       2 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.75 % 
-future-nation-frontend-we1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-dummy_js                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-json-server              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+future-nation-frontend-we1 hr 2 mins         █████████████████████████   99.68 % 
+dummy_js                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Linux                    4 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 2 mins         █████████████████████████   100.00 % 
 
 ```
 
@@ -170,7 +167,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/02/2023 12:26:53 UTC
+ Last Updated on 10/02/2023 12:24:55 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
