@@ -87,13 +87,13 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C099%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 7 Contributions in the Year 2023
+> 🏆 8 Contributions in the Year 2023
  > 
 > 📦 273.0 kB Used in GitHub's Storage 
  > 
@@ -167,7 +167,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/02/2023 12:23:05 UTC
+ Last Updated on 12/02/2023 12:22:13 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
