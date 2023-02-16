@@ -85,7 +85,7 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 ###  ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C102%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C109%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -95,7 +95,7 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 > 🏆 11 Contributions in the Year 2023
  > 
-> 📦 273.0 kB Used in GitHub's Storage 
+> 📦 274.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -132,24 +132,24 @@ Sunday           7 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               2 hrs 32 mins       ███████████████████░░░░░░   75.85 % 
-JSON                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-yarn.lock                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-.env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JavaScript               8 hrs 6 mins        ████████████████████░░░░░   81.43 % 
+JSON                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+.env file                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-WebStorm                 3 hrs 21 mins       █████████████████████████   100.00 % 
+WebStorm                 9 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bbbApiClient             1 hr 33 mins        ███████████░░░░░░░░░░░░░░   46.61 % 
-bbb-server-node-js       1 hr 29 mins        ███████████░░░░░░░░░░░░░░   44.41 % 
-Express-REST-API-Template11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-bbb-server-api-client    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-future-nation-api-server 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+bbbApiClient             6 hrs 11 mins       ███████████████░░░░░░░░░░   62.15 % 
+bbb-server-node-js       3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   34.09 % 
+Express-REST-API-Template11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+bbb-server-api-client    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Linux                    3 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 57 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -170,7 +170,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/02/2023 12:26:34 UTC
+ Last Updated on 16/02/2023 12:24:14 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
