@@ -85,7 +85,7 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 ###  ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C180%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C181%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -130,21 +130,21 @@ Sunday                   74 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               8 hrs 4 mins        ██████████████░░░░░░░░░░░   57.04 % 
-YAML                     4 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
-Text                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+TypeScript               7 hrs 31 mins       █████████████░░░░░░░░░░░░   52.42 % 
+YAML                     5 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
+Text                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-WebStorm                 14 hrs 9 mins       █████████████████████████   100.00 % 
+WebStorm                 14 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-future-nation-frontend-we8 hrs 49 mins       ████████████████░░░░░░░░░   62.32 % 
-future-nation-api-server 5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.68 % 
+future-nation-frontend-we9 hrs               ████████████████░░░░░░░░░   62.85 % 
+future-nation-api-server 5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.15 % 
 
 💻 Operating System: 
-Linux                    14 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    14 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -164,7 +164,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2023 12:18:48 UTC
+ Last Updated on 22/03/2023 12:18:52 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
