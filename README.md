@@ -85,7 +85,7 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 ###  ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C181%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C181%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -130,21 +130,21 @@ Sunday                   74 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-TypeScript               4 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.63 % 
-YAML                     3 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.19 % 
-Text                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+TypeScript               3 hrs 25 mins       ███████████░░░░░░░░░░░░░░   42.01 % 
+YAML                     3 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.83 % 
+Text                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-WebStorm                 9 hrs 18 mins       █████████████████████████   100.00 % 
+WebStorm                 8 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-future-nation-frontend-we7 hrs 31 mins       ████████████████████░░░░░   80.83 % 
-future-nation-api-server 1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+future-nation-frontend-we7 hrs 18 mins       ██████████████████████░░░   89.73 % 
+future-nation-api-server 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 
 💻 Operating System: 
-Linux                    9 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -164,7 +164,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2023 12:19:58 UTC
+ Last Updated on 24/03/2023 12:17:57 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
