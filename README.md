@@ -87,7 +87,7 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C181%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.3%20million%20lines%20of%20code-blue)
 
@@ -130,21 +130,16 @@ Sunday                   74 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-YAML                     2 hrs 25 mins       ██████████████████████░░░   86.00 % 
-TypeScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+YAML                     24 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 48 mins       █████████████████████████   100.00 % 
+WebStorm                 24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-future-nation-frontend-we1 hr 58 mins        ██████████████████░░░░░░░   70.23 % 
-future-nation-api-server 50 mins             ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+future-nation-frontend-we24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -164,7 +159,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2023 12:20:23 UTC
+ Last Updated on 29/03/2023 12:21:26 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
