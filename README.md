@@ -85,7 +85,7 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 ###  ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C181%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C181%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -130,16 +130,18 @@ Sunday                   74 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-YAML                     24 mins             █████████████████████████   100.00 % 
+YAML                     25 mins             █████████████████░░░░░░░░   69.62 % 
+JSON                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🔥 Editors: 
-WebStorm                 24 mins             █████████████████████████   100.00 % 
+WebStorm                 36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-future-nation-frontend-we24 mins             █████████████████████████   100.00 % 
+future-nation-frontend-we36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.00 % 
+Linux                    36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -159,7 +161,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2023 12:21:26 UTC
+ Last Updated on 30/03/2023 12:19:36 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
