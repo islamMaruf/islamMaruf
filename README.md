@@ -85,7 +85,7 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 ###  ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C181%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C183%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -130,18 +130,21 @@ Sunday                   74 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-YAML                     25 mins             █████████████████░░░░░░░░   69.62 % 
-JSON                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+TypeScript               1 hr 27 mins        ████████████████████░░░░░   79.01 % 
+PHP                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-WebStorm                 36 mins             █████████████████████████   100.00 % 
+WebStorm                 1 hr 37 mins        ██████████████████████░░░   87.91 % 
+VS Code                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 
 🐱‍💻 Projects: 
-future-nation-frontend-we36 mins             █████████████████████████   100.00 % 
+future-nation-frontend-we1 hr 37 mins        ██████████████████████░░░   87.91 % 
+moodle                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
 
 💻 Operating System: 
-Linux                    36 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -161,7 +164,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2023 12:19:36 UTC
+ Last Updated on 31/03/2023 12:18:46 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
