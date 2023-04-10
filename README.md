@@ -87,15 +87,15 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C194%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 311.4 kB Used in GitHub's Storage 
+> 📦 311.3 kB Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2023
+> 🏆 38 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,21 +106,21 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-🌆 Daytime                312 commits         █████████░░░░░░░░░░░░░░░░   36.66 % 
-🌃 Evening                289 commits         ████████░░░░░░░░░░░░░░░░░   33.96 % 
-🌙 Night                  178 commits         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+🌞 Morning                72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+🌆 Daytime                312 commits         █████████░░░░░░░░░░░░░░░░   36.03 % 
+🌃 Evening                289 commits         ████████░░░░░░░░░░░░░░░░░   33.37 % 
+🌙 Night                  193 commits         ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Tuesday                  76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Wednesday                86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Thursday                 53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Friday                   230 commits         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-Saturday                 254 commits         ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Sunday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Monday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Tuesday                  76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Wednesday                86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Thursday                 53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Friday                   230 commits         ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+Saturday                 254 commits         ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+Sunday                   74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 ```
 
 
@@ -168,7 +168,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2023 12:16:36 UTC
+ Last Updated on 10/04/2023 12:18:05 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
