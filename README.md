@@ -36,7 +36,7 @@
 
 ##### **Soft BD Ltd, Software Engineer**, 06/2022 - Present | 8th & 13th Floor, 52/1 Hasan Holdings Limited, New Eskaton Road, Dhaka - 1000
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, React Js, Next Js, TypeScript, Node Js, Nest Js, Material UI, API Gateway, MYSQL
-*Part of a web application team worked in both frontend and backend. Use Next js framework for front end development and
+* Part of a web application team worked in both frontend and backend. Use Next js framework for front end development and
 Nest Js framework for API development. The application followed distributed system architecture for handling large amounts
 of concurrent requests. Use API Gateway for authentication, authorization, log monitoring, load balancing and use it as reverse
 proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
