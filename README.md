@@ -128,21 +128,16 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      1 hr 52 mins        ████████████████████████░   95.46 % 
-Blade Template           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-ActionScript 3           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pol-recharge-ui-ms       1 hr 39 mins        █████████████████████░░░░   84.49 % 
-pol-payment-admin-ui-ms  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-pol-recharge-ms          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 57 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -162,7 +157,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2023 12:17:38 UTC
+ Last Updated on 06/09/2023 12:17:24 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
