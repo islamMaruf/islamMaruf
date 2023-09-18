@@ -128,20 +128,16 @@ Sunday                   78 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      29 mins             ███████████████░░░░░░░░░░   60.42 % 
-Blade Template           18 mins             █████████░░░░░░░░░░░░░░░░   37.62 % 
-ActionScript 3           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pol-payment-admin-ui-ms  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -161,7 +157,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2023 12:15:34 UTC
+ Last Updated on 18/09/2023 12:17:58 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
