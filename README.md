@@ -93,11 +93,11 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 113 Contributions in the Year 2023
+> 🏆 114 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 100 Public Repositories 
+> 📜 101 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -143,11 +143,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               23 repos            ███████████░░░░░░░░░░░░░░   42.59 % 
-PHP                      21 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JavaScript               23 repos            ██████████░░░░░░░░░░░░░░░   41.82 % 
+PHP                      21 repos            ██████████░░░░░░░░░░░░░░░   38.18 % 
+Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
@@ -157,7 +157,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2023 12:17:29 UTC
+ Last Updated on 26/10/2023 12:17:13 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
