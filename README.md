@@ -85,9 +85,9 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 ###  ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C600%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C608%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -128,16 +128,24 @@ Sunday                   79 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      3 hrs 18 mins       ███████████░░░░░░░░░░░░░░   44.12 % 
+JavaScript               2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Markdown                 1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Vue.js                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ip_management_frontend   2 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.17 % 
+ip_management_api_service2 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.63 % 
+ip_management            1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+ad-api-gw                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+ad-ip-frontend           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -157,7 +165,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2023 12:15:45 UTC
+ Last Updated on 30/10/2023 12:17:43 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
