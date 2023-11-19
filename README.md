@@ -128,7 +128,7 @@ Sunday                   90 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      24 hrs 19 mins      ███████████████████░░░░░░   76.14 % 
+PHP                      24 hrs 19 mins      ███████████████████░░░░░░   76.13 % 
 Other                    3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
 JavaScript               1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 Blade Template           1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
@@ -165,7 +165,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2023 12:16:03 UTC
+ Last Updated on 19/11/2023 12:16:34 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
