@@ -85,6 +85,8 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 ###  ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C696%20hrs%2049%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -126,9 +128,9 @@ Sunday                   90 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      7 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.68 % 
+PHP                      7 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.69 % 
 Docker                   3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Bash                     2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Bash                     2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
 Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 Git Config               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
@@ -136,11 +138,11 @@ Git Config               1 hr 10 mins        ██░░░░░░░░░�
 VS Code                  16 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pol-recharge-ui-ms       9 hrs 33 mins       ███████████████░░░░░░░░░░   59.03 % 
-pol-payment-admin-ui-ms  1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+pol-recharge-ui-ms       9 hrs 32 mins       ███████████████░░░░░░░░░░   59.01 % 
+pol-payment-admin-ui-ms  1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 linux-utils              1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 pol-dpc-ms               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-pol-payment-core-ms      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+pol-payment-core-ms      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 
 💻 Operating System: 
 Linux                    16 hrs 10 mins      █████████████████████████   100.00 % 
@@ -163,7 +165,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2023 12:15:59 UTC
+ Last Updated on 26/11/2023 12:15:54 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
