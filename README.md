@@ -85,7 +85,7 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 ###  ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C166%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C169%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,11 +93,11 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 102 Public Repositories 
+> 📜 103 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -128,24 +128,24 @@ Sunday                   90 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      38 hrs 51 mins      █████████████████░░░░░░░░   68.89 % 
-Other                    14 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-Bash                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Blade Template           1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+PHP                      31 hrs 36 mins      ██████████████████░░░░░░░   70.56 % 
+Other                    11 hrs 25 mins      ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+Blade Template           52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Bash                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-VS Code                  56 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  44 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pol-payment-core-ms      29 hrs 44 mins      █████████████░░░░░░░░░░░░   52.74 % 
-pol-recharge-ui-ms       20 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   35.95 % 
-pol-payment-admin-ui-ms  3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-pol-recharge-ms          2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-express_rest_api         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+pol-payment-core-ms      24 hrs 40 mins      ██████████████░░░░░░░░░░░   55.08 % 
+pol-recharge-ui-ms       17 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   39.02 % 
+pol-recharge-ms          1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+pol-payment-admin-ui-ms  1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+express_rest_api         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Linux                    56 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    44 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -165,7 +165,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2024 12:16:30 UTC
+ Last Updated on 16/02/2024 12:16:36 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
