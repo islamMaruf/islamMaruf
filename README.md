@@ -85,7 +85,7 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
 ###  ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C320%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C323%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -163,7 +163,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2024 12:16:47 UTC
+ Last Updated on 06/04/2024 12:16:10 UTC
 <!--END_SECTION:waka-->
 ![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
