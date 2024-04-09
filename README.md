@@ -6,7 +6,7 @@
 [![Youtube Channel](https://img.shields.io/badge/%20-Channel-black?color=14171A&labelColor=c53929&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCLMGSasSxHmrEmu5LcL9AMA)
 [![Website Visit](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=45B39D&logo=drone&logoColor=ffffff)](https://islammaruf.github.io/)
 
-:wave: Hi there, My name is Maruf. I'm 25 years old, self-taught, software engineer. Currently, I am working at Soft BD Ltd. I like to work with my team and love to share and gather knowledge.I have completed a degree of Bachelor of Science in Computer Science and Engineering from Daffodil International University.Currently,I am doing Master of Science in Software Engineering from Daffodil International University.
+:wave: Hi there, My name is Maruf. I'm 25 years old, self-taught, software engineer. Currently, I am working at Soft BD Ltd. I like to work with my team and love to share and gather knowledge. I have completed a degree of Bachelor of Science in Computer Science and Engineering from Daffodil International University. Currently, I am doing a Master of Science in Software Engineering from Daffodil International University.
 ### 🛠 &nbsp;Tech Stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -36,8 +36,8 @@
 
 ##### **Soft BD Ltd, Software Engineer**, 06/2022 - Present | 8th & 13th Floor, 52/1 Hasan Holdings Limited, New Eskaton Road, Dhaka - 1000
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, React Js, Next Js, TypeScript, Node Js, Nest Js, Material UI, API Gateway, MYSQL
-* Part of a web application team worked in both frontend and backend. Use Next js framework for front end development and
-Nest Js framework for API development. The application followed distributed system architecture for handling large amounts
+* Part of a web application team worked in both frontend and backend. Use Next js framework for front-end development and
+Nest Js framework for API development. The application followed a distributed system architecture for handling large amounts
 of concurrent requests. Use API Gateway for authentication, authorization, log monitoring, load balancing and use it as reverse
 proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 
@@ -45,7 +45,7 @@ proxy between frontend and backend. URL: https://platform.futurenation.gov.bd/.
 ##### **TMSS ICT Limited, Software Engineer**, 10/2021 - 05/2022 | West Kazipara, Mirpur-10, Dhaka
 ###### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL
 * Develop a payroll management system that reduced approximately 40% of human workload and decreased the possibility of human error. 
-* Features of that system are - RBAC, authorization, staff registration, dynamic salary component generation, salary sheet generation, calculation of provident fund, gratuity, and interest calculation, generate various types of reports related to staff individual earning deduction monthly and yearly calculation, All staff calculation and calculation after staff retirement.
+* Features of that system are - RBAC, authorization, staff registration, dynamic salary component generation, salary sheet generation, calculation of provident fund, gratuity, and interest calculation, generating various types of reports related to staff individual earning deduction monthly and yearly calculation, All staff calculation and calculation after staff retirement.
 * Implement a scheduler for deleting some deleted data after a certain period.
 * Implement a job for inserting large datasets and notify the front end through a pusher event. 
  
@@ -111,5 +111,4 @@ Linux                    19 hrs 15 mins      ███████████�
 
  Last Updated on 09/04/2024 04:58:18 UTC
 <!--END_SECTION:waka-->
-![Maruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=islamMaruf&count_private=true&show_icons=true&theme=graywhite)
 
