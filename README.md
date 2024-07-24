@@ -133,29 +133,8 @@ ensure that the project is progressing smoothly.
 
 ### ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C721%20hrs%2011%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.7%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-PHP                      10 hrs 48 mins      ████████████████░░░░░░░░░   65.25 % 
-Blade Template           2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Other                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-JavaScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 34 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    16 hrs 34 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 23/07/2024 12:20:04 UTC
+ Last Updated on 24/07/2024 12:19:59 UTC
 <!--END_SECTION:waka-->
