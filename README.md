@@ -52,12 +52,10 @@
 
 ##### **Project - MY GP APPLICATION (POL)**
 
-- Implementing diverse business requirements within the Payment Orchestration Layer
-- Responsible for developing code that meets the requirements and specifications of the project. Writing code
-that is efficient, readable, and well-structured, as well as testing and debugging the code to ensure that it is
-free of errors and functions correctly
-- Actively participating in team meetings and contributing to requirement analysis and refinement
-- Utilizing Agile methodology for development
+- Contributed to the Payment Orchestration Layer (POL) system for Grameenphone, enabling seamless integration with various payment gateways and providers to support digital payments across services like Recharge, Packs, Roaming Services, SIMs, Devices, and more.
+- Played a key role in enhancing the user experience on Grameenphone's digital channels journey, including MyGP, GP Website, Flexiplan, Skitto, and GP Online Shop, by developing new features and fixing critical bugs in POL
+- Collaborated with cross-functional teams to analyze requirements, design architectures, and deploy innovative POL features that align with Grameenphone's business goals and user needs.
+- Focused on delivering secure, efficient, and scalable solutions to support Grameenphone’s vast customer base and diverse range of digital services.
 
 ### **Soft BD Ltd, Software Engineer**, 06/2022 - 04/2023 | 8th & 13th Floor, 52/1 Hasan Holdings Limited, New Eskaton Road, Dhaka - 1000
 
