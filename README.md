@@ -50,7 +50,7 @@
 
 #### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, JQuery, API Gateway, MYSQL, ELK, JENKINS, DOCKER
 
-##### **Project - MY GP APPLICATION (POL)**
+##### **Project - MYGP (POL)**
 
 - Contributed to the Payment Orchestration Layer (POL) system for Grameenphone, enabling seamless integration with various payment gateways and providers to support digital payments across services like Recharge, Packs, Roaming Services, SIMs, Devices, and more.
 - Played a key role in enhancing the user experience on Grameenphone's digital channels journey, including MyGP, GP Website, Flexiplan, Skitto, and GP Online Shop, by developing new features and fixing critical bugs in POL
