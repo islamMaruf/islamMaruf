@@ -131,7 +131,7 @@ ensure that the project is progressing smoothly.
 
 ### ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C524%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C529%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.7%20million%20lines%20of%20code-blue)
 
@@ -141,19 +141,19 @@ ensure that the project is progressing smoothly.
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      27 hrs 29 mins      ████████████████████████░   96.62 % 
-Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Blade Template           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+PHP                      24 hrs 11 mins      ██████████████████████░░░   86.03 % 
+Other                    2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Blade Template           1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    28 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/02/2025 12:21:58 UTC
+ Last Updated on 20/02/2025 12:23:33 UTC
 <!--END_SECTION:waka-->
