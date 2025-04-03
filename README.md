@@ -131,9 +131,9 @@ ensure that the project is progressing smoothly.
 
 ### ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C778%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C786%20hrs%2020%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.8%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -141,19 +141,19 @@ ensure that the project is progressing smoothly.
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    20 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   40.89 % 
-YAML                     11 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-PHP                      6 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Docker                   4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-JSON                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Other                    21 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   37.28 % 
+YAML                     13 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+PHP                      9 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Docker                   4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+JSON                     3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🔥 Editors: 
-VS Code                  51 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  57 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    51 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    57 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/04/2025 12:25:40 UTC
+ Last Updated on 03/04/2025 12:25:37 UTC
 <!--END_SECTION:waka-->
