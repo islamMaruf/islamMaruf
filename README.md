@@ -135,6 +135,25 @@ ensure that the project is progressing smoothly.
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.7%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 19/04/2025 12:22:20 UTC
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+PHP                      6 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.85 % 
+Docker                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Other                    1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Bash                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+YAML                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+
+🔥 Editors: 
+VS Code                  15 hrs 17 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    15 hrs 17 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 20/04/2025 12:23:11 UTC
 <!--END_SECTION:waka-->
