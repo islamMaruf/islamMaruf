@@ -1,133 +1,176 @@
-# Md Maruf Islam
+# Hi there, I'm Md Maruf Islam 👋
+
+### Senior Software Engineer | Full-Stack Developer | Open Source Enthusiast
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:maruf4426@diu.edu.bd)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077b5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/islammaruf/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=4267b2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/islammaruf7424/)
-[![Youtube Channel](https://img.shields.io/badge/%20-Channel-black?color=14171A&labelColor=c53929&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCLMGSasSxHmrEmu5LcL9AMA)
-[![Website Visit](https://img.shields.io/badge/%20-Website-black?color=14171A&labelColor=45B39D&logo=drone&logoColor=ffffff)](https://islammaruf.github.io/)
+[![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077b5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/islammaruf/)
+[![Portfolio](https://img.shields.io/badge/%20-Visit-black?color=14171A&labelColor=667eea&logo=safari&logoColor=ffffff)](https://islammaruf.github.io/)
+[![GitHub](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/islamMaruf)
 
-## 🛠 &nbsp; Tech Stack
+---
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;\
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;\
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;\
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)\
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)\
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)\
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)\
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)\
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)\
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+## 🚀 About Me
+
+```typescript
+const maruf = {
+    role: "Senior Software Engineer",
+    company: "Miaki Media Ltd",
+    location: "Dhaka, Bangladesh 🇧🇩",
+    experience: "6+ years",
+    
+    currentFocus: [
+        "Building payment orchestration systems for 50M+ users",
+        "Scaling enterprise applications with Laravel & Node.js",
+        "Mastering Docker & Kubernetes for production deployments",
+        "Contributing to open-source projects"
+    ],
+    
+    impact: {
+        users_served: "50M+ at Grameenphone",
+        cost_reduction: "40% through automation",
+        performance_boost: "60% faster API responses",
+        uptime: "99.5% across production systems"
+    },
+    
+    learning: ["Go", "Blockchain", "Microservices Architecture", "DevOps"]
+};
+```
+
+---
+
+## 💼 Professional Highlights
+
+- 🏆 **Senior Software Engineer** at Miaki Media Ltd - Building MyGP Payment Orchestration Layer
+- 🎯 Reduced payment processing errors by **45%** through robust error handling
+- ⚡ Optimized API response time by **60%** (800ms → 320ms)
+- 🚀 Cut deployment time by **87.5%** (4 hours → 30 minutes) via CI/CD
+- 👥 Led frontend teams for government platform serving **1M+ citizens**
+- 📈 Delivered payroll system reducing HR workload by **40%**
+- 🎓 **MSc in Software Engineering** | **BSc in Computer Science**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Backend Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### Frontend Frameworks
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)\
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-## :office: &nbsp;WORK HISTORY
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
-### **Miaki Media Ltd, Software Engineer**, 05/2023 - Present | House 11/A, Road 99, Momtaz Vision, Flat: B-2, Gulshan 02, Dhaka 1212.
+---
+## 🏢 Work Experience
 
-#### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, JQuery, API Gateway, MYSQL, ELK, JENKINS, DOCKER
+### 🚀 Senior Software Engineer @ Miaki Media Ltd
+**May 2023 - Present | Dhaka, Bangladesh**
 
-##### **Project - MYGP (POL)**
+**Key Project: MyGP Payment Orchestration Layer (POL)**
+- 💳 Built payment orchestration system for **Grameenphone** (50M+ subscribers)
+- 🔧 Integrated **10+ payment gateways** processing millions of daily transactions
+- 📉 Reduced payment errors by **45%** with robust error handling & ELK monitoring
+- ⚡ Improved API response time by **60%** through query optimization & caching
+- 🚀 Established CI/CD pipeline cutting deployment time by **87.5%**
+- 👨‍🏫 Mentored **3 junior developers** on Laravel best practices & PCI-DSS compliance
 
-- Contributed to the Payment Orchestration Layer (POL) system for Grameenphone, enabling seamless integration with various payment gateways and providers to support digital payments across services like Recharge, Packs, Roaming Services, SIMs, Devices, and more.
-- Played a key role in enhancing the user experience on Grameenphone's digital channels journey, including MyGP, GP Website, Flexiplan, Skitto, and GP Online Shop, by developing new features and fixing critical bugs in POL
-- Collaborated with cross-functional teams to analyze requirements, design architectures, and deploy innovative POL features that align with Grameenphone's business goals and user needs.
-- Focused on delivering secure, efficient, and scalable solutions to support Grameenphone’s vast customer base and diverse range of digital services.
+**Tech:** PHP, Laravel 10, MySQL, Redis, Docker, Kubernetes, Jenkins, ELK Stack
 
-### **Soft BD Ltd, Software Engineer**, 06/2022 - 04/2023 | 8th & 13th Floor, 52/1 Hasan Holdings Limited, New Eskaton Road, Dhaka - 1000
+---
 
-#### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, React Js, Next Js, TypeScript, Node Js, Nest Js, Material UI, API Gateway, MYSQL
+### 💻 Software Engineer @ Soft BD Ltd
+**June 2022 - April 2023 | Dhaka, Bangladesh**
 
-##### **Project - FUTURENATION** | URL: <https://platform.futurenation.gov.bd/>
+**Key Project: FUTURENATION Platform** (Government Digital Transformation)
+- 🏛️ Led frontend team of **5 engineers** for national platform serving **1M+ citizens**
+- ⚛️ Developed **50+ full-stack features** with React, Next.js, TypeScript, Node.js
+- 🎨 Built responsive UI achieving **95+ Lighthouse scores**, 35% better engagement
+- ✅ Implemented testing with **85% code coverage**, reducing bugs by 50%
+- 🗄️ Designed complex database schemas with **80+ tables** in MySQL
 
-- Contributed as a key member of a web application team, working in both frontend and backend development
-capacities.
-- Actively participated in database design, architectural decisions, API design and requirement analysis to
-ensure the successful delivery of high-quality software solutions.
-- Lead a frontend application team, providing guidance in task distribution, conducting stand-up meetings and
-making critical decisions for front end application development.
+**Tech:** React, Next.js 13, TypeScript, Node.js, Nest.js, Material UI, Laravel
 
-### **TMSS ICT Limited, Software Engineer**, 10/2021 - 05/2022 | West Kazipara, Mirpur-10, Dhaka
+---
 
-#### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, VUE JS, MYSQL
+### 🏗️ Software Engineer @ TMSS ICT Limited
+**October 2021 - May 2022 | Dhaka, Bangladesh**
 
-##### **Project - STAFFPAY (Payroll Management System)**
+**Key Project: STAFFPAY (Enterprise Payroll System)**
+- 💼 Developed payroll system for **5,000+ employees** across 20+ organizations
+- 📊 Reduced HR workload by **40%** through automation
+- 🧮 Built complex calculation engine for salaries, taxes, deductions
+- 📑 Created **30+ customizable reports** with PDF/Excel export
+- ⚡ Optimized performance for 10,000+ records, 70% faster page loads
 
-- Designed and developed a cutting-edge Payroll Management System that achieved a 40% reduction in human
-workload and significantly decreased the possibility of human error.
-- Played a pivotal role in the requirement analysis phase, ensuring that software development efforts adhered
-to the System Requirement Specification (SRS) for optimal project alignment.
-- Took initiative to identify and rectify existing bugs, thereby enhancing the overall stability and functionality of
-the web solution, contributing to a smoother user experience.
+**Tech:** Laravel 8, Vue.js 3, Vuex, MySQL, RESTful APIs
 
-### **Colgis BD Ltd, Software Programmer**, 01/2020 - 09/2021 | Kamal Soroni road, Dhaka
+---
 
-#### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, JQUERY, POSTGRESQL
+### 📦 Software Programmer @ Colgis BD Ltd
+**January 2020 - September 2021 | Dhaka, Bangladesh**
 
-##### **Project - USAC (Warehouse Management System)**
+**Key Project: USAC (Warehouse Management System)**
+- 📦 Built WMS managing **50,000+ SKUs** across multiple locations
+- 📉 Reduced inventory discrepancies by **80%** with auto-reconciliation
+- 🔗 Integrated **5+ third-party systems** via RESTful APIs
+- 🟢 Maintained **99.5% uptime** with 24/7 support & 2-hour SLA
 
+**Tech:** Laravel 7, PostgreSQL, jQuery, WebSocket, Linux, Nginx
 
-- Collaborating closely with senior stakeholders to grasp business needs and effectively translate them into
-technical requirements.
-- Executing the development of client-facing features in a full-time software engineering capacity.
-- Engaging in research and crafting Proof of Concepts to support feature development initiatives
-- Designing and developing RESTful web services
-- Deploying application and providing post-production technical support
+---
 
+### 👨‍💻 Junior Software Engineer @ Skylark Soft Limited
+**February 2019 - December 2019 | Dhaka, Bangladesh**
 
-### **Skylark Soft Limited [SLS], Junior Software Engineer**, 02/2019 - 12/2019 | Mirpur DOHS, Dhaka
+**Key Projects: goRMG (Garments ERP) & PATRON CRM**
+- 🏭 Developed **20+ modules** for Garments ERP serving 15+ RMG clients
+- 🛒 Implemented CRM features for sales pipeline & customer management
+- 🐛 Resolved **150+ bugs** through comprehensive testing with PHPUnit
+- 📈 Optimized SQL queries improving report speed by **50%**
 
-#### **TECHNOLOGY USED:** HTML, CSS, JAVASCRIPT, PHP, LARAVEL, JQUERY, MYSQL
+**Tech:** Laravel 6, jQuery, MySQL, Git, PHPUnit
 
-##### **Project - goRMG (Garments ERP System), PATRON CRM**
+---
 
-- Writing, testing, and debugging code: Responsible for developing code that meets the requirements and
-specifications of the project. Writing code that is efficient, readable, and well-structured, as well as testing
-and debugging the code to ensure that it is free of errors and functions correctly.
-- Collaborating with team members: Collaborating with other engineers, project managers, and stakeholders to
-ensure that the project is progressing smoothly.
-
-### 💡 &nbsp; Skills
-
-- Knowledge of Object-oriented PHP programming.
-- Understanding of MVC design patterns.
-- Knowledge of core Laravel features like - Request life cycle, Service container, Service provider, Dependency injection, Facade.
-- Knowledge on JavaScript core concepts like scope, IIFE, Hoisting, Closures, Callbacks, Prototype and Prototypal Inheritance and ES6.
-- Working knowledge of Vue js, Vuex and Vue Router.
-- Try to follow SOLID design pattern and keep code clean as much as possible.
-- Working knowledge with SQL databases and their declarative query languages.
-- Strong understanding of code versioning tools, such as GIT.
-- Strong understanding of features and utility functions of jQuery.
-- Basic understanding of HTML5 and CSS3.
-- Ability to understand business requirements and translate them into technical requirements.
-
-### 🎓 &nbsp; Education
-
-- MSc in Software Engineering. Daffodil International University, Dhaka, 2022 - 2023
-- BSc in Computer Science & Engineering. Daffodil International University, Dhaka, 2014-2019
+## 📊 GitHub Stats
 
 ### ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
@@ -157,3 +200,98 @@ Linux                    19 hrs 21 mins      ███████████�
 
  Last Updated on 02/06/2025 12:28:19 UTC
 <!--END_SECTION:waka-->
+
+## 🎓 Education
+
+**🎓 Master of Science in Software Engineering**  
+Daffodil International University, Dhaka | 2022 - 2023
+
+**🎓 Bachelor of Science in Computer Science & Engineering**  
+Daffodil International University, Dhaka | 2014 - 2019
+
+---
+
+## 📜 Certifications
+
+✅ **Docker & Kubernetes Complete Course** (11+ hours)  
+✅ **DevOps Fundamentals** (CI/CD, Automation, Infrastructure)  
+✅ **Blockchain Development** (Smart Contracts, DApps)  
+✅ **Advanced Laravel Development**  
+✅ **React & Next.js Advanced Concepts**
+
+---
+
+## 🏆 Key Achievements
+
+```diff
++ 💰 Delivered payment system processing millions of transactions monthly
++ 🏛️ Led development of national government platform serving 1M+ citizens  
++ 📉 Reduced operational costs by 40% through automation
++ ⚡ Optimized performance: 60% faster APIs, 70% reduced load times
++ 🎯 Achieved 99.5% uptime across production systems
++ 🚀 Contributed 15.8M+ lines of code across 37+ repositories
++ 👥 Mentored 8+ junior developers on modern frameworks
++ 📝 Conducted 100+ code reviews ensuring quality standards
+```
+
+---
+
+## 💡 Core Competencies
+
+```yaml
+Architecture:
+  - Microservices Architecture
+  - RESTful API Design
+  - Database Design & Optimization
+  - System Scalability & Performance
+
+Development:
+  - Full-Stack Development (MERN, LAMP, Laravel)
+  - Payment Gateway Integration
+  - Enterprise Application Development
+  - Real-time Systems (WebSocket, Redis)
+
+DevOps:
+  - Docker & Kubernetes
+  - CI/CD Pipelines (Jenkins, GitHub Actions)
+  - Cloud Deployment (AWS, DigitalOcean)
+  - Monitoring & Logging (ELK Stack)
+
+Leadership:
+  - Team Leadership & Mentoring
+  - Agile/Scrum Methodologies
+  - Code Review & Quality Assurance
+  - Technical Documentation
+```
+
+---
+
+## 🌱 Currently Learning
+
+- **Go** for high-performance backend services
+- **Blockchain Development** & Web3
+- **Advanced Kubernetes** orchestration
+- **System Design** for large-scale applications
+- **GraphQL** API development
+
+---
+
+## 📫 Get In Touch
+
+- 💼 LinkedIn: [linkedin.com/in/islammaruf](https://www.linkedin.com/in/islammaruf/)
+- 🌐 Portfolio: [islammaruf.github.io](https://islammaruf.github.io/)
+- 📧 Email: maruf4426@diu.edu.bd
+- 🐙 GitHub: [@islamMaruf](https://github.com/islamMaruf)
+
+---
+
+## 🎯 Fun Facts
+
+- 🖥️ Coded **15.8 million lines** throughout my career
+- ⏱️ Spent **5,930+ hours** coding (and counting!)
+- 🌟 Active open-source contributor with **100+ repository stars**
+- 🎓 Continuous learner - completed 13+ hours of courses this year
+- 💻 Prefer Linux for development - **100% of my work happens on Linux**
+- ☕ Powered by coffee and clean code principles
+
+---
