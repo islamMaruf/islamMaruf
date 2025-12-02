@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/%20-Visit-black?color=14171A&labelColor=667eea&logo=safari&logoColor=ffffff)](https://islammaruf.github.io/)
 [![GitHub](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/islamMaruf)
 
----
+
 
 ## 🚀 About Me
 
@@ -36,11 +36,11 @@ const maruf = {
 };
 ```
 
----
+
 
 ## 💼 Professional Highlights
 
-- 🏆 **Senior Software Engineer** at Miaki Media Ltd - Building MyGP Payment Orchestration Layer
+- 🏆 **Senior Software Engineer** at Miaki Media Ltd - Building Payment Orchestration Layer (MyGP) app
 - 🎯 Reduced payment processing errors by **45%** through robust error handling
 - ⚡ Optimized API response time by **60%** (800ms → 320ms)
 - 🚀 Cut deployment time by **87.5%** (4 hours → 30 minutes) via CI/CD
@@ -48,7 +48,7 @@ const maruf = {
 - 📈 Delivered payroll system reducing HR workload by **40%**
 - 🎓 **MSc in Software Engineering** | **BSc in Computer Science**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -98,7 +98,7 @@ const maruf = {
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
----
+
 ## 🏢 Work Experience
 
 ### 🚀 Senior Software Engineer @ Miaki Media Ltd
@@ -114,7 +114,7 @@ const maruf = {
 
 **Tech:** PHP, Laravel 10, MySQL, Redis, Docker, Kubernetes, Jenkins, ELK Stack
 
----
+
 
 ### 💻 Software Engineer @ Soft BD Ltd
 **June 2022 - April 2023 | Dhaka, Bangladesh**
@@ -128,7 +128,7 @@ const maruf = {
 
 **Tech:** React, Next.js 13, TypeScript, Node.js, Nest.js, Material UI, Laravel
 
----
+
 
 ### 🏗️ Software Engineer @ TMSS ICT Limited
 **October 2021 - May 2022 | Dhaka, Bangladesh**
@@ -142,7 +142,7 @@ const maruf = {
 
 **Tech:** Laravel 8, Vue.js 3, Vuex, MySQL, RESTful APIs
 
----
+
 
 ### 📦 Software Programmer @ Colgis BD Ltd
 **January 2020 - September 2021 | Dhaka, Bangladesh**
@@ -155,20 +155,20 @@ const maruf = {
 
 **Tech:** Laravel 7, PostgreSQL, jQuery, WebSocket, Linux, Nginx
 
----
+
 
 ### 👨‍💻 Junior Software Engineer @ Skylark Soft Limited
 **February 2019 - December 2019 | Dhaka, Bangladesh**
 
-**Key Projects: goRMG (Garments ERP) & PATRON CRM**
-- 🏭 Developed **20+ modules** for Garments ERP serving 15+ RMG clients
+**Key Projects: goRMG (Garments ERP)**
+- 🏭 Developed **20+ modules** for Garments ERP (GORMG)
 - 🛒 Implemented CRM features for sales pipeline & customer management
 - 🐛 Resolved **150+ bugs** through comprehensive testing with PHPUnit
 - 📈 Optimized SQL queries improving report speed by **50%**
 
 **Tech:** Laravel 6, jQuery, MySQL, Git, PHPUnit
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -209,7 +209,7 @@ Daffodil International University, Dhaka | 2022 - 2023
 **🎓 Bachelor of Science in Computer Science & Engineering**  
 Daffodil International University, Dhaka | 2014 - 2019
 
----
+
 
 ## 📜 Certifications
 
@@ -219,7 +219,7 @@ Daffodil International University, Dhaka | 2014 - 2019
 ✅ **Advanced Laravel Development**  
 ✅ **React & Next.js Advanced Concepts**
 
----
+
 
 ## 🏆 Key Achievements
 
@@ -234,7 +234,7 @@ Daffodil International University, Dhaka | 2014 - 2019
 + 📝 Conducted 100+ code reviews ensuring quality standards
 ```
 
----
+
 
 ## 💡 Core Competencies
 
@@ -264,7 +264,7 @@ Leadership:
   - Technical Documentation
 ```
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -274,7 +274,7 @@ Leadership:
 - **System Design** for large-scale applications
 - **GraphQL** API development
 
----
+
 
 ## 📫 Get In Touch
 
@@ -283,15 +283,10 @@ Leadership:
 - 📧 Email: maruf4426@diu.edu.bd
 - 🐙 GitHub: [@islamMaruf](https://github.com/islamMaruf)
 
----
+
 
 ## 🎯 Fun Facts
 
 - 🖥️ Coded **15.8 million lines** throughout my career
 - ⏱️ Spent **5,930+ hours** coding (and counting!)
-- 🌟 Active open-source contributor with **100+ repository stars**
-- 🎓 Continuous learner - completed 13+ hours of courses this year
 - 💻 Prefer Linux for development - **100% of my work happens on Linux**
-- ☕ Powered by coffee and clean code principles
-
----
