@@ -246,7 +246,7 @@ Development:
 
 DevOps:
   - Docker & Kubernetes
-  - CI/CD Pipelines (Jenkins, GitHub Actions)
+  - CI/CD Pipelines (GitHub Actions)
   - Cloud Deployment (AWS, DigitalOcean)
   - Monitoring & Logging (ELK Stack)
 
