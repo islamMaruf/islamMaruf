@@ -171,10 +171,49 @@ const maruf = {
 
 ### ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C695%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.9%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 16/12/2025 22:06:21 UTC
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+PHP                      12 hrs 49 mins      ███████████████░░░░░░░░░░   59.12 % 
+TypeScript               6 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Other                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 42 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    21 hrs 42 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               29 repos            ██████████░░░░░░░░░░░░░░░   40.85 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/islamMaruf/islamMaruf/master/assets/bar_graph.png)
+
+
+ Last Updated on 16/12/2025 22:38:11 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Education
