@@ -212,10 +212,6 @@ Daffodil International University, Dhaka | 2014 - 2019
 
 ✅ **Docker & Kubernetes Complete Course** (11+ hours)  
 ✅ **DevOps Fundamentals** (CI/CD, Automation, Infrastructure)  
-✅ **Blockchain Development** (Smart Contracts, DApps)  
-✅ **Advanced Laravel Development**  
-✅ **React & Next.js Advanced Concepts**
-
 
 
 ## 🏆 Key Achievements
