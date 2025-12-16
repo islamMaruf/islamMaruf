@@ -70,7 +70,6 @@ const maruf = {
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Databases
@@ -279,17 +278,11 @@ Leadership:
   - Technical Documentation
 ```
 
-
-
 ## 🌱 Currently Learning
 
 - **Go** for high-performance backend services
-- **Blockchain Development** & Web3
 - **Advanced Kubernetes** orchestration
 - **System Design** for large-scale applications
-- **GraphQL** API development
-
-
 
 ## 📫 Get In Touch
 
