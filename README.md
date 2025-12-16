@@ -166,9 +166,8 @@ const maruf = {
 
 
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-### ⚙️ &nbsp; MY Weekly Coding Time
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C695%20hrs%2052%20mins-blue)
 
