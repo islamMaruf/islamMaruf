@@ -15,12 +15,14 @@
 const maruf = {
     role: "Senior Software Engineer",
     company: "Miaki Media Ltd",
+    side_gig: "Co-Founder at MockWave",
     location: "Dhaka, Bangladesh 🇧🇩",
     experience: "6+ years",
     
     currentFocus: [
         "Building payment orchestration systems for 50M+ users",
         "Scaling enterprise applications with Laravel & Node.js",
+        "Implementing DevSecOps, GitOps with ArgoCD",
         "Mastering Docker & Kubernetes for production deployments",
         "Contributing to open-source projects"
     ],
@@ -245,6 +247,7 @@ Development:
   - Real-time Systems (WebSocket, Redis)
 
 DevOps:
+  - DevSecOps & GitOps (ArgoCD)
   - Docker & Kubernetes
   - CI/CD Pipelines (GitHub Actions)
   - Cloud Deployment (AWS, DigitalOcean)
