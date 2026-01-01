@@ -171,11 +171,11 @@ const maruf = {
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C763%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C780%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.89%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -183,21 +183,21 @@ const maruf = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 22 hrs 40 mins      ████████████░░░░░░░░░░░░░   49.30 % 
-PHP                      16 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   35.35 % 
-Other                    2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-TypeScript               1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Markdown                 30 hrs 6 mins       ████████████░░░░░░░░░░░░░   49.71 % 
+PHP                      23 hrs              █████████░░░░░░░░░░░░░░░░   37.98 % 
+Other                    2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+TypeScript               1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Bash                     1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-VS Code                  45 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  60 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    45 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    60 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/12/2025 12:48:06 UTC
+ Last Updated on 01/01/2026 12:48:28 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Education
