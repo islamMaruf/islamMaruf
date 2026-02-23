@@ -270,7 +270,7 @@ Leadership:
 
 - 💼 LinkedIn: [linkedin.com/in/islammaruf](https://www.linkedin.com/in/islammaruf/)
 - 🌐 Portfolio: [islammaruf.github.io](https://islammaruf.github.io/)
-- 📧 Email: maruf4426@diu.edu.bd
+- 📧 Email: marufislam7424@gmail.com
 - 🐙 GitHub: [@islamMaruf](https://github.com/islamMaruf)
 
 
