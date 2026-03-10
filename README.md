@@ -171,9 +171,9 @@ const maruf = {
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C149%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C150%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.46%20million%20lines%20of%20code-blue?style=flat)
 
@@ -183,21 +183,20 @@ const maruf = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      7 hrs 34 mins       ████████████████████████░   97.87 % 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+PHP                      3 hrs 52 mins       █████████████████████████   99.14 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/03/2026 13:10:14 UTC
+ Last Updated on 10/03/2026 13:07:01 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Education
