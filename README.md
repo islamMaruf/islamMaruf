@@ -171,33 +171,14 @@ const maruf = {
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C167%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C173%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.46%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-PHP                      8 hrs 47 mins       ████████████░░░░░░░░░░░░░   46.29 % 
-Markdown                 4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-Other                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Bash                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-
-🔥 Editors: 
-VS Code                  18 hrs 59 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    18 hrs 59 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 13/03/2026 13:05:28 UTC
+ Last Updated on 14/03/2026 12:57:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Education
