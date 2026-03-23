@@ -177,8 +177,27 @@ const maruf = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.50%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 22/03/2026 12:57:58 UTC
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+Markdown                 5 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.52 % 
+PHP                      5 hrs               ████████░░░░░░░░░░░░░░░░░   31.15 % 
+YAML                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Docker                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 5 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    16 hrs 5 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 23/03/2026 13:14:43 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Education
