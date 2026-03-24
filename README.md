@@ -183,21 +183,21 @@ const maruf = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Markdown                 5 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.52 % 
-PHP                      5 hrs               ████████░░░░░░░░░░░░░░░░░   31.15 % 
-YAML                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Docker                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Markdown                 4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.14 % 
+PHP                      4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
+Docker                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+YAML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    13 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/03/2026 13:14:43 UTC
+ Last Updated on 24/03/2026 13:18:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Education
