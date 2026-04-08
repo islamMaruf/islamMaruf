@@ -171,7 +171,7 @@ const maruf = {
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C249%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C257%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -183,21 +183,21 @@ const maruf = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      11 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-Other                    5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-JSON                     5 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Markdown                 4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-YAML                     4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+PHP                      9 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+YAML                     5 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Markdown                 5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Other                    5 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+JSON                     5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  43 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    41 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    43 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2026 13:25:21 UTC
+ Last Updated on 08/04/2026 13:27:25 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Education
