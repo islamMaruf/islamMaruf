@@ -171,11 +171,11 @@ const maruf = {
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C260%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C262%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.67%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -183,21 +183,21 @@ const maruf = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      9 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-YAML                     5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Other                    5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Markdown                 4 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Bash                     4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+PHP                      9 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+Markdown                 4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Other                    4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+JSON                     3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+YAML                     3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    41 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    33 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/04/2026 13:47:28 UTC
+ Last Updated on 10/04/2026 13:17:28 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Education
