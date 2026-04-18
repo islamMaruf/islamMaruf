@@ -171,11 +171,11 @@ const maruf = {
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C319%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C323%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.71%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.72%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -183,22 +183,22 @@ const maruf = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      13 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Other                    10 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-YAML                     4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Bash                     4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-TypeScript               4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+PHP                      13 hrs 8 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Other                    11 hrs 8 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+YAML                     7 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Bash                     4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+TypeScript               4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🔥 Editors: 
-VS Code                  55 hrs 4 mins       ████████████████████████░   97.68 % 
-Unknown Editor           1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+VS Code                  58 hrs 47 mins      ████████████████████████░   97.82 % 
+Unknown Editor           1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Linux                    56 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    60 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/04/2026 13:26:10 UTC
+ Last Updated on 18/04/2026 13:08:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Education
