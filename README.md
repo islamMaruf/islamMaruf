@@ -171,11 +171,11 @@ const maruf = {
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C348%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C353%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.72%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.03%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -183,22 +183,21 @@ const maruf = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    8 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-YAML                     7 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-PHP                      7 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-TypeScript               5 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Bash                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+PHP                      8 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Other                    8 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+YAML                     7 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+TypeScript               5 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+JSON                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 26 mins      █████████████████████████   99.51 % 
-Unknown Editor           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+VS Code                  39 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    41 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/04/2026 13:47:17 UTC
+ Last Updated on 23/04/2026 13:49:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Education
