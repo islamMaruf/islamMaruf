@@ -171,7 +171,7 @@ const maruf = {
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C388%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C390%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -183,21 +183,21 @@ const maruf = {
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      19 hrs 43 mins      ████████████░░░░░░░░░░░░░   49.10 % 
-Bash                     4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Other                    3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-YAML                     3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Blade Template           2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+PHP                      17 hrs 26 mins      ████████████░░░░░░░░░░░░░   46.98 % 
+YAML                     4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Bash                     4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Other                    3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Blade Template           2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🔥 Editors: 
-VS Code                  40 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  37 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    40 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    37 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/04/2026 14:06:02 UTC
+ Last Updated on 30/04/2026 14:03:05 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Education
